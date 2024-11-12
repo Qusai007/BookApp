@@ -23,9 +23,15 @@ A sleek and intuitive book management app built with React Native. This app allo
 
 ## 📸 Screenshots
 
-1. **Books List Screen**: View the list of available books.
-2. **Book Detail Screen**: View detailed information about each book and borrow it.
-3. **Borrowed Books Screen**: View a list of borrowed books and return them.
+### Books List Screen
+![Books List Screen](assets/books_list_screen.png)
+
+### Book Detail Screen
+![Book Detail Screen](assets/book_detail_screen.png)
+
+### Borrowed Books Screen
+![Borrowed Books Screen](assets/borrowed_books_screen.png)
+
 
 ## 🚀 Getting Started
 
