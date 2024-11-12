@@ -24,13 +24,13 @@ A sleek and intuitive book management app built with React Native. This app allo
 ## 📸 Screenshots
 
 ### Books List Screen
-![Books List Screen](assets/books_list_screen.png)
+<img src="assets/books_list_screen.png" alt="Books List Screen" width="300"/>
 
 ### Book Detail Screen
-![Book Detail Screen](assets/book_detail_screen.png)
+<img src="assets/book_detail_screen.png" alt="Books List Screen" width="300"/>
 
 ### Borrowed Books Screen
-![Borrowed Books Screen](assets/borrowed_books_screen.png)
+<img src="assets/borrowed_books_screen.png" alt="Books List Screen" width="300"/>
 
 
 ## 🚀 Getting Started
